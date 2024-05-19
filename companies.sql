@@ -43,11 +43,7 @@ CREATE TABLE `companies` (
 -- Dumping data for table `companies`
 --
 
-INSERT INTO `companies` (`id`, `name`, `company_email`, `rate`, `rate_number`, `categories`, `address`, `wilaya`, `registersDeCommerce`) VALUES
-(9, 'Hanoti', 'hanoti@gmail.com', NULL, NULL, NULL, 'Yacine Ybkbvgggy', '-14-  Tiaret', '[\"https://firebasestorage.googleapis.com/v0/b/orderly-af56f.appspot.com/o/rc%2F1715018412857?alt=media&token=28acfa08-886b-4b28-bce9-c58ad7296e19\"]'),
-(10, 'Tahnot', 'tahnot@gmail.com', NULL, NULL, NULL, 'Zbzbslsndbxjdbdbxnnxn', '-09-  Blida', '[\"https://firebasestorage.googleapis.com/v0/b/orderly-af56f.appspot.com/o/rc%2F1715021684554?alt=media&token=16beab92-ca26-4d70-a499-e351a9e44aea\"]');
 
---
 -- Indexes for dumped tables
 --
 
